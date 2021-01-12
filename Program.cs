@@ -9,6 +9,8 @@ namespace GithubPractice
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("We are writing all the codes!!");
+
+            Console.WriteLine("We added more codes!");
         }
     }
 }
